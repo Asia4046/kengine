@@ -1,4 +1,3 @@
-
 #pragma once
 
 // Unsigned int types.

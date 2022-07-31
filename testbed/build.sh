@@ -20,4 +20,3 @@ defines="-D_DEBUG -DKIMPORT"
 echo "Building $assembly..."
 echo clang $cFilenames $compilerFlags -o ../bin/$assembly $defines $includeFlags $linkerFlags
 clang $cFilenames $compilerFlags -o ../bin/$assembly $defines $includeFlags $linkerFlags
-Footer
