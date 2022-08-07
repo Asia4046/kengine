@@ -3,6 +3,11 @@
 #include "vulkan_types.inl"
 
 #include "core/logger.h"
+#include "core/kstring.h"
+
+#include "containers/darray.h"
+
+#include "platform/platform.h"
 
 // static Vulkan context
 static vulkan_context context;
